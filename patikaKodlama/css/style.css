@@ -1,0 +1,71 @@
+.photo {
+    text-align: center;
+    height: auto;
+    width: auto;
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.search {
+    background-color: rgb(211, 207, 207);
+    margin-top: 0px;
+    width: 98%;
+    height: 140px;
+    text-align: center;
+    font-size: 22px;
+}
+form.search-line input {
+    margin-top: 0px;
+    height: 30px;
+    border: 1px solid rgb(250, 248, 248);
+    border-radius: 2px 0 0 4px;
+    font-size: 16px;
+    font-weight: 500;
+    box-sizing: border-box;
+    padding: 0 15px;
+    flex: 1;
+    outline: 0;
+
+}
+form.buton {
+    float: double;
+    font-size: 35px;
+}
+.baglanti{
+    
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+.bg-renk1 {
+    background-color: rgb(8, 233, 233);
+    font-size: 18px;
+    width: 570px;
+    height: 128px;
+    text-align: center;
+ 
+}
+.bg-renk2 {
+    background-color: rgb(9, 168, 168);
+    width: 200px;
+    height: 128px;
+   text-align: center;
+}
+.bg-renk3 {
+    background-color: rgb(8, 129, 129);
+    width: 609px;
+    height: 128px;
+    text-align: center;
+}
+.box {
+    
+    padding: 7px;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    float: left;
+}
+.bilgi {
+    text-align: center;
+}
